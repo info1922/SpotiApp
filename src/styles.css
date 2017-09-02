@@ -4,6 +4,10 @@ body {
     background-color: black;
 }
 
+.puntero {
+    cursor: pointer;
+}
+
 .fondo {
     background-color: black;
     color: whitesmoke;
